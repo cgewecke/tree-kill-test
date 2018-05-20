@@ -1,0 +1,26 @@
+{
+  "name": "tree-kill-test",
+  "version": "1.0.0",
+  "description": "Not real trees.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --timeout 7000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cgewecke/tree-kill-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cgewecke/tree-kill-test/issues"
+  },
+  "homepage": "https://github.com/cgewecke/tree-kill-test#readme",
+  "devDependencies": {
+    "mocha": "^3.5.3"
+  },
+  "dependencies": {
+    "ethereumjs-testrpc-sc": "^6.1.2",
+    "tree-kill": "^1.2.0"
+  }
+}
